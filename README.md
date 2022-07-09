@@ -7,7 +7,7 @@ I will keep updating this repo.
 
 
 ## What’s Nextflow & What’s nf-core?
-![nextflow](./images/Y~6UH%`S_%GQCNDX{YU$EYI.png)
+![nextflow](./images/20220524105649.png)
 
 ![nf-core](./images/20220524093012.png)
 
